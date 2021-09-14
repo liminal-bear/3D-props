@@ -1,0 +1,11 @@
+My personal "How to" in making a counter base segment in Blender
+
+start with 1x1 cube in blender
+extrude 0.1 up
+extrude 0.1 out (from newest up face)
+bevels are .03 with 3 segments
+drawers have padding of 0.04 from edge of module
+drawers are extruded 0.02 out
+
+for drawer handles, import handle, scale by .05
+move out by 1.06, align z and x as desired
