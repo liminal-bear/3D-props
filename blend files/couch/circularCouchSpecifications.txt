@@ -1,0 +1,3 @@
+bevel width: .02
+2 segment
+cushion height .13
