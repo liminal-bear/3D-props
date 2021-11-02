@@ -1,0 +1,3 @@
+I used one blend file to export multiple different FBX's, but didn't save in between too often. 
+For instance, metal tree 12.blend and metal tree 13.blend are the same.
+I made sure to save a new blender file when I realized I made a duplicate, so it is pretty easy to recreate it's corresponding FBX
